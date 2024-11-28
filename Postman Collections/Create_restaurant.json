@@ -4,18 +4,5 @@
 		"name": "dlsu",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
-	"item": [
-		{
-			"name": "Create Restaurant",
-			"id": "741f53dc-f9e1-400c-a3b9-d351d2c1aebb",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		}
-	]
+	"item": []
 }
