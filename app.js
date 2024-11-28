@@ -87,7 +87,7 @@ routes.route("/search/:parameter").get(function (req, res) {
 
 app.use(routes);
 
-app.listen(5000, () => {
+app.listen(3000, () => {
   console.log("App started");
   mongoose.connect(process.env.MONGODB_URI, { dbName: process.env.DB_NAME });
 });
